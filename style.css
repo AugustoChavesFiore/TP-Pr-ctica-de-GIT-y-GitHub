@@ -11,6 +11,7 @@ body {
 header {
 	background-color: #f0f0f0;
 	padding: 20px;
+
 }
 
 /* Estilos de la barra de navegación */
@@ -49,4 +50,14 @@ footer {
 	color: #fff;
 	padding: 20px;
 	text-align: center;
+}
+
+
+.logo{
+	display: flex;
+	justify-content: center;
+}
+.logo img{
+	width: 100px;
+	height: 100px;
 }
